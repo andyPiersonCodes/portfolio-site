@@ -11,7 +11,7 @@ a:visited, a:active, a:link{
 
 }
 
-.flex-item:hover{
+.flex-item:hover, input[type=submit]:hover{
 background: #6cd162;
 }
 
@@ -87,7 +87,7 @@ input[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
+ {
   background-color: #45a049;
 }
 
